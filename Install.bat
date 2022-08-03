@@ -1,3 +1,3 @@
 pip install colorama
-pip install  pynput.mouse
+pip install pynput
 pip install keyboard
