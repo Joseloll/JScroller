@@ -5,7 +5,7 @@ from colorama import Fore
 import time
 import os
 import sys
-os.system(f'cls & mode 85,20 & title JSpammer')
+os.system(f'cls & mode 85,20 & title JScroller')
 def main():
    menu()
 
