@@ -1,5 +1,6 @@
 # JScroller
-![image](https://user-images.githubusercontent.com/106576578/182503857-3c8361bf-a240-47a7-870b-4f5a97411fd4.png)
+![image](https://user-images.githubusercontent.com/106576578/182509707-c62a065c-0766-4be7-a354-bf61c5e2d37f.png)
+
 
 # Features:
 - Scrolls Discord Messages Fast To The Top When The First Message Was Sent
