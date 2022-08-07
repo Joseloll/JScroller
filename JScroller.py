@@ -21,7 +21,7 @@ def menu():
 \____//____/\___/_/   \____/_/_/\___/_/     
       
    
-   Press Enter To Start JScroller""")
+   Press Any Enter To Start JScroller""")
    print(Fore.GREEN + "There Will Be A 5 Second Delay Before Scrolling")
    time.sleep(5)
    print(Fore.LIGHTCYAN_EX + "Scrolling Was SucessFull")
